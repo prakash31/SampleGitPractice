@@ -11,5 +11,6 @@
   	<module>sample-entities</module>
     <module>sample-services</module>
     <module>sample-web-app</module>
+    <module>sample-util-service</module>
   </modules>
 </project>
