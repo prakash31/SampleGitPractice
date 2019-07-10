@@ -39,6 +39,8 @@ public class Employee {
 
 	public void setRole(String role) {
 		this.role = role;
+		this.salary = salary;
+		this.empName = empName;
 	}
 
 }
